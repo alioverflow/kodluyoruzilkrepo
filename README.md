@@ -24,6 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ```
 
 # License
-```
-[MIT License](https://choosealicense.com/licenses/mit/)
-```
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
